@@ -14,4 +14,4 @@ Images are taken from various websites.
 Ilene Cohen
 Ilene413@icloud.com
 April 2019.
-he application should render different images (of your choice) to the screen. Each image should listen for click events.
+
