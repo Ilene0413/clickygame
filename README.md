@@ -1,6 +1,6 @@
 # clickygame
 This app is a memory game.  
-The app renders 12 different images.  Each image should only be clicked once. If it is clicked more than once, the user losers.
+The app renders 12 different images.  Each image should only be clicked once. If it is clicked more than once, the user loses.
 Each image listens for a click event.
 The app keeps track of the user's score and the top score. If the user clicks on an image more than once, they lose and a message
 appears indicating that they lost and should try again. 
